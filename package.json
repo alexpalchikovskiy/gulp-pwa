@@ -1,0 +1,33 @@
+{
+  "name": "gulp-pwa",
+  "version": "1.0.0",
+  "description": "Progressive Web Application manifest and all META tags with Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpalchikovskiy/gulp-pwa.git"
+  },
+  "keywords": [
+    "PWA",
+    "Gulp",
+    "progressive",
+    "web",
+    "app",
+    "apps",
+    "application",
+    "manifest",
+    "progressive web apps",
+    "progressive web application",
+    "web manifest",
+    "web application"
+  ],
+  "author": "Alex Palchikovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexpalchikovskiy/gulp-pwa/issues"
+  },
+  "homepage": "https://github.com/alexpalchikovskiy/gulp-pwa#readme"
+}
