@@ -29,5 +29,10 @@
   "bugs": {
     "url": "https://github.com/alexpalchikovskiy/gulp-pwa/issues"
   },
-  "homepage": "https://github.com/alexpalchikovskiy/gulp-pwa#readme"
+  "homepage": "https://github.com/alexpalchikovskiy/gulp-pwa#readme",
+  "dependencies": {
+    "pwa-config": "^1.0.0",
+    "through2": "^3.0.1",
+    "vinyl": "^2.2.0"
+  }
 }
