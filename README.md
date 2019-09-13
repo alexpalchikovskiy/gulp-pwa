@@ -10,7 +10,7 @@ npm i gulp-pwa --save
 ## Usage example
 
 ```javascript
-cosnt gulp = require( 'gulp' );
+const gulp = require( 'gulp' );
 const pwa = require( 'gulp-pwa' );
 
 const options = {
