@@ -1,6 +1,6 @@
 {
   "name": "gulp-pwa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Progressive Web Application manifest and all META tags with Gulp",
   "main": "index.js",
   "scripts": {
@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/alexpalchikovskiy/gulp-pwa#readme",
   "dependencies": {
-    "pwa-config": "^1.0.0",
+    "pwa-config": "^1.0.1",
     "through2": "^3.0.1",
     "vinyl": "^2.2.0"
   }
