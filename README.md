@@ -9,7 +9,7 @@ npm i gulp-pwa --save
 
 ## Usage example
 
-```
+```javascript
 cosnt gulp = require( 'gulp' );
 const pwa = require( 'gulp-pwa' );
 
@@ -38,7 +38,7 @@ In *dist* directory will add manifest.json and in *index.html* will add all tags
 
 **background_color** - background color when launching app (only Android, because iOS use splashscreen image)
 
-[More options](https://github.com/alexpalchikovskiy/pwa-config/blob/master/README.md)
+[More options](https://github.com/alexpalchikovskiy/pwa-config/blob/master/README.md#options)
 
 ## Important
 
@@ -46,4 +46,4 @@ All icon names must be **icon-${size}x${size}.png** (as example icon-540x540.png
 
 All splashscreen names must be **splashscreen-${width}x${height}.png** (as example splashscreen-1242x2688.png)
 
-[Full list of icons and splashscreens](https://github.com/alexpalchikovskiy/pwa-config/blob/master/README.md)
+[Full list of icons and splashscreens](https://github.com/alexpalchikovskiy/pwa-config/blob/master/README.md#icons)
